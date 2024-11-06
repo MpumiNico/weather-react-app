@@ -72,7 +72,7 @@ export default function Weather(props) {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://netlify.app/"
+            href="https://github.com/MpumiNico"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -88,7 +88,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://netlify.app/"
+            href="https://weatherappmpumi.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
